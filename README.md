@@ -161,7 +161,7 @@ Expected:
 
 ## 📌 Future Roadmap
 
-- [✓] Agent chaining via memory graphs
+- [ ] Agent chaining via memory graphs
 - [ ] Integration with Electronic Health Records (EHR)
 - [ ] SMS fallback via Twilio
 - [ ] Persistent database logging
