@@ -15,6 +15,11 @@ MedCall is a healthcare-first AI assistant designed to triage patients, log crit
 
 ---
 
+## Youtube Video
+[![MedCall Youtube Video](https://img.youtube.com/vi/I8FEVGCuYz0/0.jpg)](https://www.youtube.com/watch?v=I8FEVGCuYz0)
+
+---
+
 ## Architecture
 
 ```
