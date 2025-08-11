@@ -78,7 +78,7 @@ cd medcall
 
 ### 2. Slack Bot Setup
 
-- Create a bot at [api.slack.com/apps](https://api.slack.com/apps)
+- Create a bot at [Slack](https://api.slack.com/apps)
 - Enable:
   - `event:message.im`
   - `chat:write`
@@ -133,7 +133,7 @@ npm run dev
 
 ---
 
-## Example Agent Flow
+## Implemented Agent Flow
 
 1. User sends: `I have chest pain and feel dizzy`
 2. Backend stores message and routes to **Symptom Checker**
@@ -157,14 +157,14 @@ Expected:
 
 ---
 
-## 🔒 Security
+## Security
 
 - Slack requests are verified using `x-slack-signature` and `x-slack-request-timestamp`
 - IBM API Keys are kept secure via `.env`
 
 ---
 
-## 📌 Future Roadmap
+## Future Roadmap
 
 - [ ] Agent chaining via memory graphs
 - [ ] Integration with Electronic Health Records (EHR)
@@ -174,12 +174,13 @@ Expected:
 
 ---
 
-## 👨‍⚕️ Maintainers
+## Maintainers
 
 - **Robert Odhiambo** – Project Lead
+- **Gift Achieng'** - Communicator
 
 ---
 
-## 📄 License
+## License
 
 MIT License. See `LICENSE` file.
