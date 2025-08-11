@@ -72,13 +72,13 @@ Slack → Node.js Middleware → FastAPI Backend → IBM Watsonx Agents
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/medcall.git
+git clone https://github.com/RobertOdhiz/medcall.git
 cd medcall
 ```
 
 ### 2. Slack Bot Setup
 
-- Create a bot at [Slack](https://api.slack.com/apps)
+- Create a bot at [Slack API](https://api.slack.com/apps)
 - Enable:
   - `event:message.im`
   - `chat:write`
